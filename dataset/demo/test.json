@@ -1,0 +1,120 @@
+[
+    {
+        "text": "are there any good romantic comedies out right now",
+        "label": [
+            [
+                "romantic comedies",
+                "GENRE"
+            ],
+            [
+                "right now",
+                "YEAR"
+            ]
+        ]
+    },
+    {
+        "text": "show me a movie about cars that talk",
+        "label": [
+            [
+                "cars that talk",
+                "PLOT"
+            ]
+        ]
+    },
+    {
+        "text": "list the five star rated movies starring mel gibson",
+        "label": [
+            [
+                "five star",
+                "RATINGS_AVERAGE"
+            ],
+            [
+                "mel gibson",
+                "ACTOR"
+            ]
+        ]
+    },
+    {
+        "text": "what science fiction films have come out recently",
+        "label": [
+            [
+                "science fiction",
+                "GENRE"
+            ],
+            [
+                "recently",
+                "YEAR"
+            ]
+        ]
+    },
+    {
+        "text": "did the same director make all of the harry potter movies",
+        "label": [
+            [
+                "harry potter",
+                "TITLE"
+            ]
+        ]
+    },
+    {
+        "text": "show me 1980s action movies",
+        "label": [
+            [
+                "1980s",
+                "YEAR"
+            ],
+            [
+                "action",
+                "GENRE"
+            ]
+        ]
+    },
+    {
+        "text": "what is the name of the third movie in the star trek series",
+        "label": [
+            [
+                "star trek series",
+                "TITLE"
+            ]
+        ]
+    },
+    {
+        "text": "can you get a soundtrac for the harry potter films",
+        "label": [
+            [
+                "soundtrac",
+                "SONG"
+            ],
+            [
+                "harry potter films",
+                "TITLE"
+            ]
+        ]
+    },
+    {
+        "text": "find me science fiction movies since 2005",
+        "label": [
+            [
+                "science fiction",
+                "GENRE"
+            ],
+            [
+                "since 2005",
+                "YEAR"
+            ]
+        ]
+    },
+    {
+        "text": "what is the most current movie featuring mat damon",
+        "label": [
+            [
+                "current",
+                "YEAR"
+            ],
+            [
+                "mat damon",
+                "ACTOR"
+            ]
+        ]
+    }
+]
