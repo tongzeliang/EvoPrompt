@@ -66,4 +66,22 @@ Refer to `requirements.txt` for the main requirements.
 
 ## Citation
 
-If you find this repository useful, please cite our paper. Thanks for your support
+If you find this repository useful, please cite our paper. Thanks for your support!
+```bibtex
+@inproceedings{tong-etal-2025-evoprompt,
+    title = "{E}vo{P}rompt: Evolving Prompts for Enhanced Zero-Shot Named Entity Recognition with Large Language Models",
+    author = "Tong, Zeliang  and
+      Ding, Zhuojun  and
+      Wei, Wei",
+    editor = "Rambow, Owen  and
+      Wanner, Leo  and
+      Apidianaki, Marianna  and
+      Al-Khalifa, Hend  and
+      Eugenio, Barbara Di  and
+      Schockaert, Steven",
+    booktitle = "Proceedings of the 31st International Conference on Computational Linguistics",
+    month = jan,
+    year = "2025",
+    address = "Abu Dhabi, UAE",
+    publisher = "Association for Computational Linguistics"
+}
